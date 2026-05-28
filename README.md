@@ -1,1 +1,3 @@
-# Estadisticas_Deportivas_TUP
+# Proyecto: Estadísticas Deportivas TUP
+Integrantes: Hugo, Paco y Luis
+Escenario: D
