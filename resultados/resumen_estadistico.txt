@@ -1,0 +1,15 @@
+=== ANÁLISIS DE ESTADÍSTICAS DE JUGADORES ===
+Promedio de goles por jugador: 7.33
+
+Top 10 Goleadores:
+                  Name               Club  Goals
+344      Sergio Agüero    Manchester-City    180
+489         Harry Kane  Tottenham-Hotspur    144
+281        Jamie Vardy     Leicester-City    105
+342    Raheem Sterling    Manchester-City     86
+313         Sadio Mané          Liverpool     86
+140     Olivier Giroud            Chelsea     86
+314      Mohamed Salah          Liverpool     78
+198       Theo Walcott            Everton     75
+169  Christian Benteke     Crystal-Palace     72
+185   Gylfi Sigurdsson            Everton     61
