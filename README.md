@@ -2,10 +2,11 @@
 Integrante: Francisco Nahuel Ortiz (Hugo, Paco y Luis)
 Escenario: D
 Estadísticas de Resultados Deportivos: Premier League ⚽
+
 📋 Visión General
 Este proyecto integra la gestión colaborativa, el control de versiones y la organización empresarial mediante el uso de metodologías ágiles (Scrum) y herramientas profesionales como Git, GitHub y Jira
 . El objetivo es analizar el rendimiento de equipos de la Premier League a partir de datos históricos, garantizando un flujo de trabajo trazable y reproducible
-.
+
 👥 Célula de Desarrollo
 El proyecto fue realizado por el siguiente equipo técnico:
 P1 - Líder y Organizador: Hugo
@@ -15,6 +16,7 @@ P3 - Revisor y QA (Quality Assurance): Luis
 Se trabajó sobre el Escenario D: Estadísticas de Resultados Deportivos
 . El análisis se centra en procesar resultados de partidos para generar métricas de rendimiento y tablas de posiciones, culminando en visualizaciones gráficas comparativas
 .
+
 📂 Estructura del Repositorio
 Siguiendo el mandato técnico de la cátedra, el repositorio se organiza de la siguiente manera
 :
@@ -31,6 +33,7 @@ Estadisticas_Deportivas_TUP/
 │
 ├── README.md             # Documentación general del proyecto [2]
 └── .gitignore            # Exclusión de archivos innecesarios (.ipynb_checkpoints, etc.) [2, 15]
+
 📊 Descripción del Dataset
 El archivo utilizado es dataset - 2020-09-24.csv, el cual contiene registros detallados de los partidos de la Premier League
 . Incluye variables clave como equipos intervinientes, goles marcados y fechas de los encuentros
